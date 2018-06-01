@@ -12,7 +12,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='jsonpointer-helpers',
-    version='0.1.0.dev0',
+    version='0.1.0',
     description='JSON Pointer helpers',
     long_description=long_description,
     long_description_content_type='text/markdown',

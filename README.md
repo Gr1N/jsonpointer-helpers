@@ -26,8 +26,6 @@ Helpers for JSON pointers described by [RFC 6901](https://tools.ietf.org/html/rf
     'foo~bar'
     >>>
 
-## Testing and linting
-
 ## Contributing
 
 To work on the `jsonpointer-helpers` codebase, you'll want to clone the project locally and install the required dependencies via [poetry](https://poetry.eustace.io):

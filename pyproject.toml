@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "jsonpointer-helpers"
-version = "0.2.0-alpha.0"
+version = "0.2.0"
 description = "JSON Pointer helpers"
 authors = [
     "Nikita Grishko <gr1n@protonmail.com>"
